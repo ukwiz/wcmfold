@@ -1,0 +1,118 @@
+@charset "utf-8";
+/* CSS Document for WCMF */
+body, td, th {
+	font-family: Verdana, Arial, Helvetica, sans-serif, Tahoma;
+}
+body {
+	background-image: url("/images/background2.jpg");
+    color: #1F205B;
+    width: 90%;
+    margin: 0px auto;
+}
+a:link {
+	color: #1F205B;
+	text-decoration: underline;
+}
+a:visited {
+	color: #1F205B;
+	text-decoration: none;
+}
+a:hover {
+	color: #D83636;
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+}
+.sitemenu {
+	margin-bottom: 2em;
+}
+.align-top {
+	vertical-align: top;
+}
+.bgcolor {
+	background-color: #000000
+}
+.breadcrumb {
+	color: #D83636;
+	font-size: 9pt;
+}
+.currentpage {
+	color: #D83636
+}
+.footer {
+	font-style: italic;
+	color: #A12323;
+	font-size: x-small;
+}
+.hyperlink {
+	text-decoration: underline;
+}
+.padding {
+	padding: 1em
+}
+.padding2 {
+	padding: 3em
+}
+.navtop {
+	color: #D83636;
+	font-weight: bold;
+	font-size: 9pt;
+}
+.navbars {
+	color: #A12323;
+	font-weight: bold;
+	font-size: 12pt;
+	text-decoration:none
+}
+.navside {
+	font-size: 10pt;
+	font-weight: bold;
+}
+.text {
+	color: #1F205B;
+	font-weight: bold;
+	font-size: 11pt;
+}
+.text2 {
+	color: #1F205B;
+	font-size: 10pt
+}
+p.reviewer {
+	font-style:italic;
+}
+.testimonial {
+	color: #5A632D;
+	font-size: x-small
+}
+.title {
+	font-size: 24pt;
+	font-family: algerian;
+	color: #1F205B;
+	font-weight: bold
+}
+.title2 {
+	color: #1F205B;
+	font-weight: bold;
+	font-size: 14pt;
+}
+.hr-color {
+	color: #A12323;
+}
+.hr-style {
+	color: #A12323;
+	background-color: #A12323;
+}
+
+.left {
+	float: left;
+}
+
+.right {
+	float: right;
+}
+
+.vt {
+	vertical-align: top;
+}
+
